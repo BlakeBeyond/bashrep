@@ -1,0 +1,5 @@
+#!bin/bash
+cd ~/Desktop
+touch vuris1
+echo "wear no helmet open up fire on the 5-0 Polisi" >> virus1
+open virus1
